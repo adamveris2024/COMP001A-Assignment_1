@@ -1,2 +1,2 @@
 Author: AdamVerissimo 
-Purpose: COMP001A IDE & Code Repository
+Purpose: Assignment 1
